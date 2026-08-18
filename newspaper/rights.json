@@ -1,0 +1,14 @@
+{
+  "assets": [
+    {
+      "path": "/newspaper/soviet-newsprint-sheet-generated.webp",
+      "subject": "Фотографическая основа советского газетного листа",
+      "creator": "OpenAI image generation for the Receiver project",
+      "source_page": null,
+      "license": "Project-owned generated asset",
+      "license_url": null,
+      "rights_status": "GENERATED",
+      "changes": "Converted from generated PNG to WebP; contains no intended readable historical text and is used only as a visual substrate for live programme data; not documentary evidence or an original newspaper scan"
+    }
+  ]
+}

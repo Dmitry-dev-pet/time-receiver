@@ -1,0 +1,124 @@
+{
+  "assets": [
+    {
+      "path": "/hardware/vega-326-transparent.png",
+      "subject": "Вега-326, фронтальная визуальная реконструкция",
+      "creator": "OpenAI ChatGPT image generation; supplied by the project owner",
+      "source_page": null,
+      "license": "Project-owned generated asset",
+      "license_url": null,
+      "rights_status": "GENERATED",
+      "changes": "Baked checkerboard background replaced with a chroma key and removed locally to alpha; not documentary evidence of a specific physical receiver"
+    },
+    {
+      "path": "/hardware/record-v312-transparent.png",
+      "subject": "Рекорд В-312, фронтальная визуальная реконструкция",
+      "creator": "OpenAI ChatGPT image generation; supplied by the project owner",
+      "source_page": null,
+      "license": "Project-owned generated asset",
+      "license_url": null,
+      "rights_status": "GENERATED",
+      "changes": "Generated background replaced with a chroma key and removed locally to alpha; the live video surface is calibrated to the depicted CRT; not documentary evidence of a specific physical television"
+    },
+    {
+      "path": "/hardware/skins/01-vef-202.png",
+      "subject": "ВЭФ-202, фронтальная визуальная реконструкция",
+      "creator": "OpenAI ChatGPT image generation; supplied by the project owner",
+      "source_page": null,
+      "license": "Project-owned generated asset",
+      "license_url": null,
+      "rights_status": "GENERATED",
+      "changes": "Supplied as a transparent front-facing PNG and used as a selectable decorative hardware skin; not documentary evidence"
+    },
+    {
+      "path": "/hardware/skins/02-spidola-231.png",
+      "subject": "Спидола-231, фронтальная визуальная реконструкция",
+      "creator": "OpenAI ChatGPT image generation; supplied by the project owner",
+      "source_page": null,
+      "license": "Project-owned generated asset",
+      "license_url": null,
+      "rights_status": "GENERATED",
+      "changes": "Supplied as a transparent front-facing PNG and used as a selectable decorative hardware skin; not documentary evidence"
+    },
+    {
+      "path": "/hardware/skins/03-sokol-308.png",
+      "subject": "Сокол-308, фронтальная визуальная реконструкция",
+      "creator": "OpenAI ChatGPT image generation; supplied by the project owner",
+      "source_page": null,
+      "license": "Project-owned generated asset",
+      "license_url": null,
+      "rights_status": "GENERATED",
+      "changes": "Supplied as a transparent front-facing PNG and used as a selectable decorative hardware skin; not documentary evidence"
+    },
+    {
+      "path": "/hardware/skins/04-yunost-406d.png",
+      "subject": "Юность-406Д, фронтальная визуальная реконструкция",
+      "creator": "OpenAI ChatGPT image generation; supplied by the project owner",
+      "source_page": null,
+      "license": "Project-owned generated asset",
+      "license_url": null,
+      "rights_status": "GENERATED",
+      "changes": "Supplied as a transparent front-facing PNG; the live video surface is calibrated to the depicted CRT; not documentary evidence"
+    },
+    {
+      "path": "/hardware/skins/05-elektron-714d.png",
+      "subject": "Электрон-714Д, фронтальная визуальная реконструкция",
+      "creator": "OpenAI ChatGPT image generation; supplied by the project owner",
+      "source_page": null,
+      "license": "Project-owned generated asset",
+      "license_url": null,
+      "rights_status": "GENERATED",
+      "changes": "Supplied as a transparent front-facing PNG; the live video surface is calibrated to the depicted CRT; not documentary evidence"
+    },
+    {
+      "path": "/hardware/skins/06-kvn-49.png",
+      "subject": "КВН-49, фронтальная визуальная реконструкция",
+      "creator": "OpenAI ChatGPT image generation; supplied by the project owner",
+      "source_page": null,
+      "license": "Project-owned generated asset",
+      "license_url": null,
+      "rights_status": "GENERATED",
+      "changes": "Supplied as a transparent front-facing PNG; the live video surface is calibrated to the depicted CRT; not documentary evidence"
+    },
+    {
+      "path": "/hardware/skins/07-rubin-401-1.png",
+      "subject": "Рубин-401-1, фронтальная визуальная реконструкция",
+      "creator": "OpenAI ChatGPT image generation; supplied by the project owner",
+      "source_page": null,
+      "license": "Project-owned generated asset",
+      "license_url": null,
+      "rights_status": "GENERATED",
+      "changes": "Supplied as a transparent front-facing PNG; the live video surface is calibrated to the depicted CRT; not documentary evidence"
+    },
+    {
+      "path": "/hardware/skins/08-elektronika-vl-100.png",
+      "subject": "Электроника ВЛ-100, фронтальная визуальная реконструкция",
+      "creator": "OpenAI ChatGPT image generation; supplied by the project owner",
+      "source_page": null,
+      "license": "Project-owned generated asset",
+      "license_url": null,
+      "rights_status": "GENERATED",
+      "changes": "Supplied as a transparent front-facing PNG; the live video surface is calibrated to the depicted CRT; not documentary evidence"
+    },
+    {
+      "path": "/hardware/skins/09-silelis-401d.png",
+      "subject": "Шилялис-401Д, фронтальная визуальная реконструкция",
+      "creator": "OpenAI ChatGPT image generation; supplied by the project owner",
+      "source_page": null,
+      "license": "Project-owned generated asset",
+      "license_url": null,
+      "rights_status": "GENERATED",
+      "changes": "Supplied as a transparent front-facing PNG; the live video surface is calibrated to the depicted CRT; not documentary evidence"
+    },
+    {
+      "path": "/hardware/skins/10-gorizont-723.png",
+      "subject": "Горизонт-723, фронтальная визуальная реконструкция",
+      "creator": "OpenAI ChatGPT image generation; supplied by the project owner",
+      "source_page": null,
+      "license": "Project-owned generated asset",
+      "license_url": null,
+      "rights_status": "GENERATED",
+      "changes": "Supplied as a transparent front-facing PNG; the live video surface is calibrated to the depicted CRT; not documentary evidence"
+    }
+  ]
+}

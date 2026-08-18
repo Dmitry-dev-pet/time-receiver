@@ -1,0 +1,35 @@
+{
+  "id": "/time-receiver/",
+  "name": "Time Receiver",
+  "short_name": "Receiver",
+  "description": "Исторический радио- и телевизионный эфир Москвы",
+  "lang": "ru",
+  "start_url": "/time-receiver/?place=moscow&date=1982-11-18&time=10%3A30&medium=radio&freq=173",
+  "scope": "/time-receiver/",
+  "display": "standalone",
+  "display_override": [
+    "window-controls-overlay",
+    "standalone"
+  ],
+  "background_color": "#0b0e0e",
+  "theme_color": "#171b1b",
+  "categories": [
+    "entertainment",
+    "education",
+    "music"
+  ],
+  "icons": [
+    {
+      "src": "/time-receiver/icons/receiver-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/time-receiver/icons/receiver-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

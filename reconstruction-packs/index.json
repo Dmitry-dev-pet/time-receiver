@@ -1,0 +1,315 @@
+{
+  "schemaVersion": 1,
+  "range": [
+    "1940-01-01",
+    "1990-12-31"
+  ],
+  "years": [
+    {
+      "year": 1940,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1940.pack",
+      "gzipBytes": 22512,
+      "sha256": "17194b7e222d810a07ed57f126e7e23146aad8c78f9f5fe6c0862e0d3f537f43"
+    },
+    {
+      "year": 1941,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1941.pack",
+      "gzipBytes": 22721,
+      "sha256": "59a793575d3a22601b99eb795e65a73e28c40ae51334e9218e1e7ff84d79a75a"
+    },
+    {
+      "year": 1942,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1942.pack",
+      "gzipBytes": 22671,
+      "sha256": "0ad21beb132085e6249ebf0ce3ac2782cdbe01832fe9c9a57069ffe29d8504fa"
+    },
+    {
+      "year": 1943,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1943.pack",
+      "gzipBytes": 22731,
+      "sha256": "9493f7aa60f8e0f5dcfd8fedf2964ed361b3eb405dedbb41745a89d8422c2e17"
+    },
+    {
+      "year": 1944,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1944.pack",
+      "gzipBytes": 22851,
+      "sha256": "32514228710a075f712b7813ee843f8314cbee93da3f51b231d9ff13241eacbb"
+    },
+    {
+      "year": 1945,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1945.pack",
+      "gzipBytes": 22823,
+      "sha256": "86ac3d4b20b073190a883be15b6a509c3323c83c5e281116ae5860a823c67f91"
+    },
+    {
+      "year": 1946,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1946.pack",
+      "gzipBytes": 22576,
+      "sha256": "dc8c240211305144e0c10a2c0e83ea9c9d6c995bbd368cf654af3c31e6b03874"
+    },
+    {
+      "year": 1947,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1947.pack",
+      "gzipBytes": 22655,
+      "sha256": "d8efdf1dfed97c29e0ff9cce766ac15a90077d8ad9fbc20868e9d07a7653cbc8"
+    },
+    {
+      "year": 1948,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1948.pack",
+      "gzipBytes": 22688,
+      "sha256": "4009fac06218c253921b8d59c73f0dcda83ad8c6806fbca60193872b1da2ff83"
+    },
+    {
+      "year": 1949,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1949.pack",
+      "gzipBytes": 22593,
+      "sha256": "b98a1c3e10d5f2ba74e875d24fca6a92e1e1490621b122d5b70487a2f602ff04"
+    },
+    {
+      "year": 1950,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1950.pack",
+      "gzipBytes": 22435,
+      "sha256": "3701a92e0f8322d2863fb8614ddb445699832ace63233b01611637f359a5ded8"
+    },
+    {
+      "year": 1951,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1951.pack",
+      "gzipBytes": 22319,
+      "sha256": "f45bc6ae4ac0d6c1fe7741ef1554978ba4935f98f6f2aec18a97e8f0622e3d4a"
+    },
+    {
+      "year": 1952,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1952.pack",
+      "gzipBytes": 22436,
+      "sha256": "95af22232b8e61c1660fbe4f3bc56013b19b4a05a0e22dbd69d2a09aba2b5842"
+    },
+    {
+      "year": 1953,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1953.pack",
+      "gzipBytes": 22360,
+      "sha256": "280049436a6818b6e1abbe39597d45edd6329b4df1c59ba6391b90d7338da0f2"
+    },
+    {
+      "year": 1954,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1954.pack",
+      "gzipBytes": 22378,
+      "sha256": "ea391731b3c63dc011ddb4bf58c02632fd2c0fb25f5f422564591adfd4fa47bd"
+    },
+    {
+      "year": 1955,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1955.pack",
+      "gzipBytes": 22017,
+      "sha256": "a61e56ff77919fcaca824ee1d25a3b02d7563245302ea01757ff54486889b975"
+    },
+    {
+      "year": 1956,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1956.pack",
+      "gzipBytes": 21586,
+      "sha256": "d5ba27b63dce30710f222308fa526166e966a6421d2432788fdeff22e06a2e27"
+    },
+    {
+      "year": 1957,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1957.pack",
+      "gzipBytes": 21501,
+      "sha256": "e25a49e0af99750484c8be11d0c803f37d4d31f4402d41d2a36f8bf6fc1a7e29"
+    },
+    {
+      "year": 1958,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1958.pack",
+      "gzipBytes": 21489,
+      "sha256": "fba0df68c419b7be513d49b312631f873e462b79a525b8c64e7a5c0e0ea1fd23"
+    },
+    {
+      "year": 1959,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1959.pack",
+      "gzipBytes": 21254,
+      "sha256": "edc39d8fff15fbd236d1542ed8f1e37fa2845285c02b0ba8053f3dcad6f1b204"
+    },
+    {
+      "year": 1960,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1960.pack",
+      "gzipBytes": 21244,
+      "sha256": "acf6aeb2733a5e65de1fbb8d2a23e866b134a34fd43e2eb8b1789e2992147a60"
+    },
+    {
+      "year": 1961,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1961.pack",
+      "gzipBytes": 21440,
+      "sha256": "03659b2aad92a8a8c035c1a13a249a85ee1f2a1d13aa54ee795076d9ec4170cd"
+    },
+    {
+      "year": 1962,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1962.pack",
+      "gzipBytes": 22152,
+      "sha256": "cc2594fcc00c4167ed2f6b48f3cba0cae0f9a8d332b216c917d0dd780ec88553"
+    },
+    {
+      "year": 1963,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1963.pack",
+      "gzipBytes": 21942,
+      "sha256": "1aa1e24d6b5f1430686303767bca193506d9e5c00e066732583f6a896e63863b"
+    },
+    {
+      "year": 1964,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1964.pack",
+      "gzipBytes": 21666,
+      "sha256": "31a26a715a5060b7bed4c9b7c8e7c1f8127026cc237d40b4d89fa985bd10d5c7"
+    },
+    {
+      "year": 1965,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1965.pack",
+      "gzipBytes": 21615,
+      "sha256": "7f78e78922f1baca6fcec26379ae1df4298d368c004af9921102bcfbb99980ca"
+    },
+    {
+      "year": 1966,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1966.pack",
+      "gzipBytes": 21860,
+      "sha256": "98ca07d364da9904530540e63c13500151311c9263a50ece30fa1e7b0478395d"
+    },
+    {
+      "year": 1967,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1967.pack",
+      "gzipBytes": 22447,
+      "sha256": "af251a901d5b71b852bf74b1a31cc1d8126e4b824069bb8c464e961bd68d661d"
+    },
+    {
+      "year": 1968,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1968.pack",
+      "gzipBytes": 21799,
+      "sha256": "d7c0bbb15a273da0618a2de34c195726920c26c3cfd6357860a4949e34ca63b8"
+    },
+    {
+      "year": 1969,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1969.pack",
+      "gzipBytes": 21932,
+      "sha256": "55fc960681610b15ffcd52c995ea6acde37f6ad5ff3e438e86f9c79c1e6dc7d7"
+    },
+    {
+      "year": 1970,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1970.pack",
+      "gzipBytes": 22035,
+      "sha256": "4e8fb24d47bc735bbc69ef083b23efe3d7f9894fece342ddbfa12400e57df0fa"
+    },
+    {
+      "year": 1971,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1971.pack",
+      "gzipBytes": 21775,
+      "sha256": "53e800557fc0baa36600c78852a881160c50f7916e03afcc49fa7ef50cee1caa"
+    },
+    {
+      "year": 1972,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1972.pack",
+      "gzipBytes": 21953,
+      "sha256": "de5b6200a1b3f6b6c12bdc6f0c5353a42887e22c7841e46d7e11c7216e3d7fd5"
+    },
+    {
+      "year": 1973,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1973.pack",
+      "gzipBytes": 21966,
+      "sha256": "dc2636510dbea261104b1cabb8de29a9cb8d6e9e09d8a4ca255f7fd986186e60"
+    },
+    {
+      "year": 1974,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1974.pack",
+      "gzipBytes": 22024,
+      "sha256": "d48fe614c81ffaae8571dbd33f3bcadc0c0c56e2194057ba29e70d4ff7ad6f0b"
+    },
+    {
+      "year": 1975,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1975.pack",
+      "gzipBytes": 21669,
+      "sha256": "370e7b5d2b941643cc63d7b62137c525b1dc411ba3904cf04320a0270ed45c44"
+    },
+    {
+      "year": 1976,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1976.pack",
+      "gzipBytes": 22430,
+      "sha256": "532a78d12c9b8716055a261e4cb64aeef27a53d2b6e0baeb2fec79660d573a9b"
+    },
+    {
+      "year": 1977,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1977.pack",
+      "gzipBytes": 21934,
+      "sha256": "2e40a1602acc25f95c4efd0dbdf6ff13fb59e04dca4ae5b9f11e8ddd47025dfe"
+    },
+    {
+      "year": 1978,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1978.pack",
+      "gzipBytes": 22321,
+      "sha256": "e4d24981a32a16fc8b3ba07a91ae9d2329d9200daab53d7dbbc6bb36a6859386"
+    },
+    {
+      "year": 1979,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1979.pack",
+      "gzipBytes": 504687,
+      "sha256": "0e6b5457f64d9288b536b7ac473e883a1c2434d3ff223e228cfbf0533ff877b3"
+    },
+    {
+      "year": 1980,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1980.pack",
+      "gzipBytes": 543892,
+      "sha256": "9b5d91918d3cf3c6b0831172c7493cf3a8e2cdd34300d0a764806652d8e4376e"
+    },
+    {
+      "year": 1981,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1981.pack",
+      "gzipBytes": 553511,
+      "sha256": "973b5d04b0cf0e597d56d008d068a066f90c6111fd3e0a5832386019e885751f"
+    },
+    {
+      "year": 1982,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1982.pack",
+      "gzipBytes": 663349,
+      "sha256": "d79a14014cb0d4cfa2a7cd5514d4e475351e4344a2d8caf74063e54904f5a837"
+    },
+    {
+      "year": 1983,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1983.pack",
+      "gzipBytes": 602013,
+      "sha256": "098050a5ca74ef6264e3b9b7c58d629684924e1a92eb147ef677188ddff0b720"
+    },
+    {
+      "year": 1984,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1984.pack",
+      "gzipBytes": 620603,
+      "sha256": "875e61e4dd71e8795617431f7c1ebe32a385e94411534f965e5f27a84755a535"
+    },
+    {
+      "year": 1985,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1985.pack",
+      "gzipBytes": 611868,
+      "sha256": "069df3c9b97557297266556e86f548c3f04511e41641b5050503cd1fee0e5075"
+    },
+    {
+      "year": 1986,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1986.pack",
+      "gzipBytes": 596639,
+      "sha256": "bcfe80979aadcc9a39435b4653074448b841b0a0ed44711345dbcd232f763a7a"
+    },
+    {
+      "year": 1987,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1987.pack",
+      "gzipBytes": 582972,
+      "sha256": "4687e3e739531d42a1368925de690c34cf588a0316dddb207bec82fefeeb88a5"
+    },
+    {
+      "year": 1988,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1988.pack",
+      "gzipBytes": 571922,
+      "sha256": "1dc6690baf70b1db1fe3fc9ca8f59036a3f0459bfb9664b493ad84089699b663"
+    },
+    {
+      "year": 1989,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1989.pack",
+      "gzipBytes": 548912,
+      "sha256": "ba126755e53a271175d7afc16eea2710ba4ddf3ddbd9fe601b9adb70f9c07cdb"
+    },
+    {
+      "year": 1990,
+      "path": "/time-receiver/reconstruction-packs/receiver-reconstruction-1990.pack",
+      "gzipBytes": 476479,
+      "sha256": "849e9f33281c379cf609b3e6766c4675ffe6486495094320eacfeef55e136cf3"
+    }
+  ]
+}

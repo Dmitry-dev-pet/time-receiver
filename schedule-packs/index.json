@@ -1,0 +1,474 @@
+{
+  "schemaVersion": 1,
+  "placeId": "moscow",
+  "range": [
+    "1940-01-01",
+    "1990-12-31"
+  ],
+  "full": {
+    "path": "/api/v1/schedule-packs/full",
+    "gzipBytes": 16978208,
+    "sha256": "5164469707a6797e18414a07051b925dbd9769bb016e8e3f2587b707ab30d9ed"
+  },
+  "years": [
+    {
+      "year": 1940,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1940.pack",
+      "gzipBytes": 8729,
+      "sha256": "e72189b9888431dadda3c6dc105e29a98fb5e73bf51a86b5349804c9b70a1276",
+      "days": 366,
+      "radioEvents": 30449,
+      "tvEvents": 0
+    },
+    {
+      "year": 1941,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1941.pack",
+      "gzipBytes": 5900,
+      "sha256": "e9693bee2fa3279b983983423475290750de52c038a4fbba31efe86bfe3a91a0",
+      "days": 365,
+      "radioEvents": 15184,
+      "tvEvents": 0
+    },
+    {
+      "year": 1942,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1942.pack",
+      "gzipBytes": 5902,
+      "sha256": "73b5d329e8fb1a71bf356e56cc6964fa879c713b142f4b3514a86bcabb158316",
+      "days": 365,
+      "radioEvents": 15184,
+      "tvEvents": 0
+    },
+    {
+      "year": 1943,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1943.pack",
+      "gzipBytes": 5901,
+      "sha256": "a07a625226f0d985783e504ff82b4fea9c314182c978d9072605205d4c45dfb3",
+      "days": 365,
+      "radioEvents": 15184,
+      "tvEvents": 0
+    },
+    {
+      "year": 1944,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1944.pack",
+      "gzipBytes": 5906,
+      "sha256": "3a22544fbbb2464027f522429293ad2328ff2b5e1d6f21661bdc0d4f2066c7c7",
+      "days": 366,
+      "radioEvents": 15225,
+      "tvEvents": 0
+    },
+    {
+      "year": 1945,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1945.pack",
+      "gzipBytes": 8712,
+      "sha256": "011563621387e317c47cda078548177895d5b60a2433f58a86a7ad117cb3578f",
+      "days": 365,
+      "radioEvents": 30368,
+      "tvEvents": 0
+    },
+    {
+      "year": 1946,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1946.pack",
+      "gzipBytes": 11027,
+      "sha256": "73c112f26253700eede89b355efa7661784835a3f64189c7904b731c32e97a2b",
+      "days": 365,
+      "radioEvents": 34047,
+      "tvEvents": 0
+    },
+    {
+      "year": 1947,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1947.pack",
+      "gzipBytes": 72849,
+      "sha256": "754aade82de5ab6eeac03c3a9c240a541585188098e64b23bdb6c37fe85c1c82",
+      "days": 365,
+      "radioEvents": 49849,
+      "tvEvents": 0
+    },
+    {
+      "year": 1948,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1948.pack",
+      "gzipBytes": 22708,
+      "sha256": "8147e296a87743f8b668319c41a9b01bb64e5b866bf5b58bcdff25bd32689f33",
+      "days": 366,
+      "radioEvents": 52679,
+      "tvEvents": 0
+    },
+    {
+      "year": 1949,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1949.pack",
+      "gzipBytes": 14539,
+      "sha256": "099c6e4c8ae4b041e4a4b6bab94d5fe083d0765c9d5ba74a5692eb85d66a23f7",
+      "days": 365,
+      "radioEvents": 52633,
+      "tvEvents": 0
+    },
+    {
+      "year": 1950,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1950.pack",
+      "gzipBytes": 14806,
+      "sha256": "2bd28aaf76f0b683fe4b54d3ecf41b6a37882ac0aaa02c7ca732d3dc384ee08f",
+      "days": 365,
+      "radioEvents": 52630,
+      "tvEvents": 0
+    },
+    {
+      "year": 1951,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1951.pack",
+      "gzipBytes": 130086,
+      "sha256": "0ecb5c2e95d824ac8c04ed822d9f67dc432d7f3b7a4dd7d4571b7d3257586e75",
+      "days": 365,
+      "radioEvents": 49921,
+      "tvEvents": 0
+    },
+    {
+      "year": 1952,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1952.pack",
+      "gzipBytes": 130417,
+      "sha256": "28d43ee0f0c4fd9306f8aad3ffedc9a20d263a9d4b75478c0ae41468cf0b199f",
+      "days": 366,
+      "radioEvents": 48700,
+      "tvEvents": 0
+    },
+    {
+      "year": 1953,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1953.pack",
+      "gzipBytes": 129530,
+      "sha256": "63b607bfbcb6a454122e2bd61f8221ce627e1fdd1d42c23bcf8681ddd7e3023e",
+      "days": 365,
+      "radioEvents": 58258,
+      "tvEvents": 0
+    },
+    {
+      "year": 1954,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1954.pack",
+      "gzipBytes": 142234,
+      "sha256": "a151c15f3a2d7f4ec1959f54e2accd346c8dbbad34d3c322ac749c6213922082",
+      "days": 365,
+      "radioEvents": 60487,
+      "tvEvents": 0
+    },
+    {
+      "year": 1955,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1955.pack",
+      "gzipBytes": 173699,
+      "sha256": "995c254d28bdf45d54ec13a4ff2f081d13477a24df5dcf2a07a80b476d1f7afb",
+      "days": 365,
+      "radioEvents": 60714,
+      "tvEvents": 1825
+    },
+    {
+      "year": 1956,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1956.pack",
+      "gzipBytes": 152742,
+      "sha256": "ea7c2cb440d36e4349d17c7aaa66d056001759ca9b08648442db25e1d23fd79b",
+      "days": 366,
+      "radioEvents": 60467,
+      "tvEvents": 4392
+    },
+    {
+      "year": 1957,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1957.pack",
+      "gzipBytes": 146242,
+      "sha256": "a6cd4347d91f2cfeb4a8a2a2427969437c297044c43c2aa555994f65db2791b4",
+      "days": 365,
+      "radioEvents": 60196,
+      "tvEvents": 4380
+    },
+    {
+      "year": 1958,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1958.pack",
+      "gzipBytes": 157500,
+      "sha256": "366cc8f890a09828ba08c48fa409c30a12cc804e3e7f949e297f52272e46e691",
+      "days": 365,
+      "radioEvents": 59484,
+      "tvEvents": 4380
+    },
+    {
+      "year": 1959,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1959.pack",
+      "gzipBytes": 135782,
+      "sha256": "7576fc2a721d4801cb91afeee7f497418eb427a19b558ede2b3d744404783086",
+      "days": 365,
+      "radioEvents": 60016,
+      "tvEvents": 4380
+    },
+    {
+      "year": 1960,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1960.pack",
+      "gzipBytes": 106782,
+      "sha256": "f41056d4fa1a98fe94e26a14a5115f0865673b93a8901714137be077b5b9617c",
+      "days": 366,
+      "radioEvents": 60610,
+      "tvEvents": 4392
+    },
+    {
+      "year": 1961,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1961.pack",
+      "gzipBytes": 126307,
+      "sha256": "2b773c251f716e8df0b3fe485b12d41f4a043685a63151085efe1962d4c33747",
+      "days": 365,
+      "radioEvents": 60522,
+      "tvEvents": 4380
+    },
+    {
+      "year": 1962,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1962.pack",
+      "gzipBytes": 123828,
+      "sha256": "3b3b07771f76d5d5f9405b51c0df5cc933c84f67e44e25e2ad1a6da0885d3ffe",
+      "days": 365,
+      "radioEvents": 60650,
+      "tvEvents": 4380
+    },
+    {
+      "year": 1963,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1963.pack",
+      "gzipBytes": 128554,
+      "sha256": "f416375e4445cee974160e145e8e94951877981db7df10b26654a861da4e8d7a",
+      "days": 365,
+      "radioEvents": 70303,
+      "tvEvents": 4380
+    },
+    {
+      "year": 1964,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1964.pack",
+      "gzipBytes": 244061,
+      "sha256": "a700df0835941ee1fe075a757ecd642e643e3b30f115f1384fc5df16b26f7710",
+      "days": 366,
+      "radioEvents": 89227,
+      "tvEvents": 4392
+    },
+    {
+      "year": 1965,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1965.pack",
+      "gzipBytes": 461082,
+      "sha256": "1d66d2fb71f14818f296d9fcf7c573676a4399d5eb4a4ca8ecee4f39e04b7610",
+      "days": 365,
+      "radioEvents": 108725,
+      "tvEvents": 9282
+    },
+    {
+      "year": 1966,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1966.pack",
+      "gzipBytes": 454028,
+      "sha256": "a7bd705a72a18b7e54ce5fc10757e2ac1b8e02687b420e48277f7a2121875538",
+      "days": 365,
+      "radioEvents": 109149,
+      "tvEvents": 9280
+    },
+    {
+      "year": 1967,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1967.pack",
+      "gzipBytes": 539100,
+      "sha256": "78749a70a99bab85f611ca272e70d80ab880a2be9eaa647e45dca3b21c6236ee",
+      "days": 365,
+      "radioEvents": 108935,
+      "tvEvents": 12830
+    },
+    {
+      "year": 1968,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1968.pack",
+      "gzipBytes": 747731,
+      "sha256": "da41d34227abf7116e777c65d09485fd1b073d7e19f02d612bc0bddf7b938e1d",
+      "days": 366,
+      "radioEvents": 108075,
+      "tvEvents": 12860
+    },
+    {
+      "year": 1969,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1969.pack",
+      "gzipBytes": 701814,
+      "sha256": "4fb08fc43f896626d7f122f16d5a60b23e47d65c7a2134d008f81ff5de501335",
+      "days": 365,
+      "radioEvents": 108320,
+      "tvEvents": 12826
+    },
+    {
+      "year": 1970,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1970.pack",
+      "gzipBytes": 689133,
+      "sha256": "c2cbec2a0ef178c4a58a1f271963c61c3c408c27fce130abe4b24473d4e6e0ba",
+      "days": 365,
+      "radioEvents": 108553,
+      "tvEvents": 12826
+    },
+    {
+      "year": 1971,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1971.pack",
+      "gzipBytes": 722052,
+      "sha256": "a9736f740db09ac520429499cc716dd328ce76c49e05ad05b1820daa0b9df8fd",
+      "days": 365,
+      "radioEvents": 108629,
+      "tvEvents": 12826
+    },
+    {
+      "year": 1972,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1972.pack",
+      "gzipBytes": 635366,
+      "sha256": "2dbc40a82f7c9161db14310bb73bb3a2079254bb22cc8ceac6f5c64dd12fc4f9",
+      "days": 366,
+      "radioEvents": 109255,
+      "tvEvents": 12868
+    },
+    {
+      "year": 1973,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1973.pack",
+      "gzipBytes": 552148,
+      "sha256": "6f0159747551d252d4dc5e4e509ab1b8196db807a17415042c4d45c45ad56378",
+      "days": 365,
+      "radioEvents": 109723,
+      "tvEvents": 12826
+    },
+    {
+      "year": 1974,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1974.pack",
+      "gzipBytes": 579853,
+      "sha256": "9ef7355ceca58614612e47d4fa2da10a670873be701ec543c4c2b9ebc08ba568",
+      "days": 365,
+      "radioEvents": 108574,
+      "tvEvents": 12826
+    },
+    {
+      "year": 1975,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1975.pack",
+      "gzipBytes": 506172,
+      "sha256": "cbc674678a6ad3fa6cacdc640e50a0c00e3a81335caf6b08235bf603121bb646",
+      "days": 365,
+      "radioEvents": 109393,
+      "tvEvents": 12826
+    },
+    {
+      "year": 1976,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1976.pack",
+      "gzipBytes": 423372,
+      "sha256": "6560bed59d490237ccb81ad9f5cf3a6bb9a99a1db8f38baab4ab605eb6c52eb4",
+      "days": 366,
+      "radioEvents": 110272,
+      "tvEvents": 12860
+    },
+    {
+      "year": 1977,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1977.pack",
+      "gzipBytes": 422093,
+      "sha256": "2808cf70c3fb71cb6069f27ac303e172872b71eea117157661057258d1200fcc",
+      "days": 365,
+      "radioEvents": 110581,
+      "tvEvents": 12830
+    },
+    {
+      "year": 1978,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1978.pack",
+      "gzipBytes": 414070,
+      "sha256": "01e1db675dd00334c131332a20a2d6c18a59da2bee378d33dcb93ae00cfa2984",
+      "days": 365,
+      "radioEvents": 111123,
+      "tvEvents": 12830
+    },
+    {
+      "year": 1979,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1979.pack",
+      "gzipBytes": 583714,
+      "sha256": "905c6108076e030d2d13011eb2566a9313daa6d86d25160702bfe738f898a386",
+      "days": 365,
+      "radioEvents": 110640,
+      "tvEvents": 12057
+    },
+    {
+      "year": 1980,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1980.pack",
+      "gzipBytes": 609387,
+      "sha256": "1107d417906f54a16f20ae13f60b5b03bd116774ba410d3e01f19e1548c95736",
+      "days": 366,
+      "radioEvents": 110948,
+      "tvEvents": 12537
+    },
+    {
+      "year": 1981,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1981.pack",
+      "gzipBytes": 616003,
+      "sha256": "c062fc2a6816b5d9a5fcc6e4657cb35d76b210d29773785c5eb189e1351b9e6f",
+      "days": 365,
+      "radioEvents": 110880,
+      "tvEvents": 13742
+    },
+    {
+      "year": 1982,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1982.pack",
+      "gzipBytes": 646367,
+      "sha256": "4a00cd991ae9e787de5ce7ac8010b3404eb23fc1ae4adbb922a32cccb48b7196",
+      "days": 365,
+      "radioEvents": 110819,
+      "tvEvents": 16079
+    },
+    {
+      "year": 1983,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1983.pack",
+      "gzipBytes": 638343,
+      "sha256": "41c6a5a3cda9c4451db76750b3114bf529fc8c651630fbb0328c9045ac55c4e4",
+      "days": 365,
+      "radioEvents": 110309,
+      "tvEvents": 16367
+    },
+    {
+      "year": 1984,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1984.pack",
+      "gzipBytes": 580546,
+      "sha256": "9de55871a0795c96aba58d04cae35b92855b32a8453294ead59fdb3e0f8d7632",
+      "days": 366,
+      "radioEvents": 111945,
+      "tvEvents": 16702
+    },
+    {
+      "year": 1985,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1985.pack",
+      "gzipBytes": 561020,
+      "sha256": "2caba7cd7eaae9984855ae3ccd5155aa437cf9b9bd83a132b78512d37028343c",
+      "days": 365,
+      "radioEvents": 112267,
+      "tvEvents": 16766
+    },
+    {
+      "year": 1986,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1986.pack",
+      "gzipBytes": 610531,
+      "sha256": "fb6332c1a6dbc2f14f928eea09dd3aaf26b10036eee88a52dfa7056913d8de32",
+      "days": 365,
+      "radioEvents": 112832,
+      "tvEvents": 16071
+    },
+    {
+      "year": 1987,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1987.pack",
+      "gzipBytes": 543511,
+      "sha256": "e7c4efdfb37b88633578e5b0d5e1e7a29e65d2dc13226b361d78b7e5a5da0bb4",
+      "days": 365,
+      "radioEvents": 112446,
+      "tvEvents": 15100
+    },
+    {
+      "year": 1988,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1988.pack",
+      "gzipBytes": 532992,
+      "sha256": "7e5fe4074ca95c4e1d521bbf41574a177c5fb5f87a09cb635f08fb5a7bee6866",
+      "days": 366,
+      "radioEvents": 112994,
+      "tvEvents": 15236
+    },
+    {
+      "year": 1989,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1989.pack",
+      "gzipBytes": 513103,
+      "sha256": "184612e457e8378ad26526515498dfdaaea524ec03d465dd8e69ab6ee2e056f8",
+      "days": 365,
+      "radioEvents": 112796,
+      "tvEvents": 15351
+    },
+    {
+      "year": 1990,
+      "path": "/time-receiver/schedule-packs/receiver-moscow-1990.pack",
+      "gzipBytes": 474973,
+      "sha256": "c8b739ef11366c5862af2c9c7480d664240f8ca158c29a9ae80f98f449033d4e",
+      "days": 365,
+      "radioEvents": 112801,
+      "tvEvents": 15974
+    }
+  ]
+}
