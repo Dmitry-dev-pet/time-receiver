@@ -1,4 +1,4 @@
-const VERSION = "c418f63d77a9a221";
+const VERSION = "0b33402d0818ef43";
 const CACHE_NAME = `time-receiver-${VERSION}`;
 const BASE_PATH = "/time-receiver/";
 const appUrl = (path = "") => `${BASE_PATH}${path}`;
@@ -27,31 +27,66 @@ async function cacheShell(cache) {
   }
 }
 
-async function cacheAllAnnualPacks(cache) {
+async function annualPackIndexes(cache) {
+  const indexes = [];
   for (const indexUrl of [appUrl("schedule-packs/index.json"), appUrl("reconstruction-packs/index.json")]) {
     const response = await cache.match(indexUrl);
     if (!response) throw new Error(`Annual pack index is missing: ${indexUrl}`);
-    const index = await response.json();
-    for (const entry of index.years) {
-      await putResponse(cache, entry.path, await fetch(new Request(entry.path, { cache: "reload" })));
-    }
+    indexes.push(await response.json());
   }
+  return indexes;
+}
+
+async function broadcast(message) {
+  const clients = await self.clients.matchAll({ type: "window" });
+  for (const client of clients) client.postMessage(message);
+}
+
+let annualPackJob = null;
+function cacheAnnualPacksResumable() {
+  annualPackJob ??= (async () => {
+    const cache = await caches.open(CACHE_NAME);
+    const indexes = await annualPackIndexes(cache);
+    const entries = indexes.flatMap((index) => index.years);
+    let complete = 0;
+    for (const entry of entries) {
+      try {
+        if (!await cache.match(entry.path)) {
+          await putResponse(cache, entry.path, await fetch(new Request(entry.path, { cache: "reload" })));
+        }
+      } catch {
+        // Keep every successfully cached year and retry missing files next time.
+      }
+      complete += 1;
+      await broadcast({ type: "CACHE_PROGRESS", complete, total: entries.length });
+    }
+    await broadcast(await offlineStatus());
+  })().finally(() => { annualPackJob = null; });
+  return annualPackJob;
 }
 
 async function offlineStatus() {
   const cache = await caches.open(CACHE_NAME);
-  const indexResponse = await cache.match(appUrl("schedule-packs/index.json"));
-  if (!indexResponse) return { type: "OFFLINE_STATUS", yearsCached: 0 };
-  const index = await indexResponse.json();
-  const cached = await Promise.all(index.years.map((entry) => cache.match(entry.path)));
-  return { type: "OFFLINE_STATUS", yearsCached: cached.filter(Boolean).length };
+  let indexes;
+  try { indexes = await annualPackIndexes(cache); }
+  catch { return { type: "OFFLINE_STATUS", yearsCached: 0, packFilesCached: 0, totalPackFiles: 102 }; }
+  const counts = [];
+  for (const index of indexes) {
+    const cached = await Promise.all(index.years.map((entry) => cache.match(entry.path)));
+    counts.push(cached.filter(Boolean).length);
+  }
+  return {
+    type: "OFFLINE_STATUS",
+    yearsCached: Math.min(...counts),
+    packFilesCached: counts.reduce((sum, count) => sum + count, 0),
+    totalPackFiles: indexes.reduce((sum, index) => sum + index.years.length, 0),
+  };
 }
 
 self.addEventListener("install", (event) => {
   event.waitUntil((async () => {
     const cache = await caches.open(CACHE_NAME);
     await cacheShell(cache);
-    await cacheAllAnnualPacks(cache);
   })());
 });
 
@@ -60,9 +95,8 @@ self.addEventListener("activate", (event) => {
     const names = await caches.keys();
     await Promise.all(names.filter((name) => name.startsWith("time-receiver-") && name !== CACHE_NAME).map((name) => caches.delete(name)));
     await self.clients.claim();
-    const clients = await self.clients.matchAll({ type: "window" });
     const status = await offlineStatus();
-    for (const client of clients) client.postMessage(status);
+    await broadcast(status);
   })());
 });
 
@@ -74,6 +108,10 @@ self.addEventListener("message", (event) => {
   }
   if (message?.type === "CHECK_OFFLINE_READY") {
     event.waitUntil(offlineStatus().then((status) => event.source?.postMessage(status)));
+    return;
+  }
+  if (message?.type === "CACHE_ANNUAL_PACKS") {
+    event.waitUntil(cacheAnnualPacksResumable());
   }
 });
 
