@@ -1,4 +1,4 @@
-const VERSION = "8c4129f3318653aa";
+const VERSION = "03b858c3da7ce6de";
 const CACHE_NAME = `time-receiver-${VERSION}`;
 const BASE_PATH = "/time-receiver/";
 const appUrl = (path = "") => `${BASE_PATH}${path}`;

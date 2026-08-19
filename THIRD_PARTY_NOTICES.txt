@@ -1,5 +1,18 @@
 Time Receiver third-party notices
 
+Shortwave Radio Audio Archive interval signals
+https://shortwavearchive.com/
+
+The radio transition catalogue links to six recordings hosted by the source:
+Radio Mayak, Voice of America, BBC World Service (two variants),
+Deutsche Welle and Radio Berlin International. The recordings are not copied
+into this repository. Their source pages identify them as licensed under the
+Creative Commons Attribution-NonCommercial 3.0 Unported License:
+https://creativecommons.org/licenses/by-nc/3.0/
+
+The receiver labels these recordings PERIOD or EQUIVALENT. It does not claim
+that they were broadcast at the selected boundary or on the selected date.
+
 @scena/ruler 0.20.0
 Copyright (c) 2019 Daybrush
 https://github.com/daybrush/ruler
