@@ -13,6 +13,22 @@ https://creativecommons.org/licenses/by-nc/3.0/
 The receiver labels these recordings PERIOD or EQUIVALENT. It does not claim
 that they were broadcast at the selected boundary or on the selected date.
 
+Wikimedia Commons radio callsigns
+https://commons.wikimedia.org/
+
+The radio transition catalogue links to two public-domain recordings hosted by
+Wikimedia Commons. The files are not copied into this repository:
+
+All-Union Radio, "Wide Is My Motherland" interval signal (1941)
+https://commons.wikimedia.org/wiki/File:Wide_Is_My_Motherland_in_1941.ogg
+
+Radio Liberty, "Anthem of Free Russia" callsign (published 2020)
+https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BE%D0%B7%D1%8B%D0%B2%D0%BD%D1%8B%D0%B5_%D0%A0%D0%B0%D0%B4%D0%B8%D0%BE_%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%B0.ogg
+
+For historical dates the receiver labels both only PERIOD or EQUIVALENT. The
+modern Radio Liberty rendering is never presented as a recording from the
+selected Soviet-era date.
+
 @scena/ruler 0.20.0
 Copyright (c) 2019 Daybrush
 https://github.com/daybrush/ruler
